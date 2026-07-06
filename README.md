@@ -5,7 +5,7 @@ Konfiguracja srodowiska macOS - ZSH + Oh My Zsh, Ghostty, Neovim (LazyVim), Star
 ## Szybki start
 
 ```bash
-git clone https://github.com/TWOJ_USER/dotfiles.git ~/dotfiles
+git clone https://github.com/szamski/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 chmod +x install.sh
 ./install.sh
